@@ -314,12 +314,12 @@ nav_order: 2
 ### **Jeremy Maker**
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
-  width="125" height="125">
+  src="img/IMG_1769.jpg" 
+  height="125">
   
   * Computer Information Systems Major
   * <a href="mailto:Jeremy.Maker@tocc.edu" target="_blank">**Click here to email!**</a>
-  * <a href="(https://github.com/JeremyFour/JeremyFour.github.io)">**Website**</a>
+  * <a href="https://github.com/JeremyFour">**Website**</a>
 
 ***
 
