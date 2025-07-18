@@ -318,7 +318,7 @@ nav_order: 2
   width="125" height="125">
   
   * Computer Information Systems Major
-  * <a href="mailto:Jeremy.Maker@tocc.edu" target="_blank">**Click to email me here!**</a>
+  * <a href="mailto:Jeremy.Maker@tocc.edu" target="_blank">**Click here to email!**</a>
   * <a href="(https://github.com/JeremyFour/JeremyFour.github.io)">**Website**</a>
 
 ***
